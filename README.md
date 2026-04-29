@@ -1,2 +1,2 @@
-# cc-programs
-ComputerCraft programs for Minecraft
+#CC:Tweaked Programs
+A collection of programs for CC:Tweaked computers in modded Minecraft.
